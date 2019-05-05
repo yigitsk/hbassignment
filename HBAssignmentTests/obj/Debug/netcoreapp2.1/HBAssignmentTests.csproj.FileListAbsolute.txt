@@ -1,0 +1,17 @@
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignmentTests.deps.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignmentTests.runtimeconfig.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignmentTests.runtimeconfig.dev.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignmentTests.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignemnt.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignemnt.pdb
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.csprojAssemblyReference.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.csproj.CopyComplete
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\bin\Debug\netcoreapp2.1\HBAssignmentTests.pdb
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignmentTests\obj\Debug\netcoreapp2.1\HBAssignmentTests.pdb

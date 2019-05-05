@@ -1,0 +1,13 @@
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\bin\Debug\netcoreapp2.1\HBAssignemnt.deps.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\bin\Debug\netcoreapp2.1\HBAssignemnt.runtimeconfig.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\bin\Debug\netcoreapp2.1\HBAssignemnt.runtimeconfig.dev.json
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\bin\Debug\netcoreapp2.1\HBAssignemnt.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\bin\Debug\netcoreapp2.1\HBAssignemnt.pdb
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.RazorAssemblyInfo.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.RazorAssemblyInfo.cs
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.RazorTargetAssemblyInfo.cache
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.dll
+C:\Users\Yigit\source\repos\HBAssignemnt\HBAssignemnt\obj\Debug\netcoreapp2.1\HBAssignemnt.pdb
